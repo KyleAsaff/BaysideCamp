@@ -1,0 +1,40 @@
+body {
+	font-family: Verdana;
+    text-align: center;
+}
+
+a {
+	color: black;
+}
+
+.links {
+    margin-top: 20px;
+    margin-bottom: 5px;
+    font-size: 11pt;
+}
+
+.spacer {
+    padding: 10px;
+}
+
+.contact {
+    font-size: 8pt;
+}
+
+.contact p{
+    margin: 0;
+}
+
+.phone {
+    display: inline-block;
+    padding-right: 15px;
+}
+
+.fax {
+    display: inline-block;
+}
+
+.bayside {
+    display: block;
+}
+
