@@ -1,3 +1,0 @@
-RewriteEngine On
-RewriteCond %{HTTP_HOST} ^(www\.)?baysidecamp\.org$ [NC]
-RewriteRule ^$ http://baysidecamp.org/underconstruction/index.html [NE,L,R=301]
